@@ -1,0 +1,12 @@
+<h1>Section: {{ section.name }}</h1>
+{% if students %}
+    {% for student in students %}
+        <p>
+            Name: {{ student.name }} | Roll No: {{ student.roll_no }} | 
+            <a href="{% url 'view_student' student.id %}">View Details</a>
+        </p>
+    {% endfor %}
+{% else %}
+    <p>No students in this section.</p>
+{% endif %}
+<a href="{% url 'home' %}">Back to Home</a>
