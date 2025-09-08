@@ -1,3 +1,6 @@
+
+Note :  The code i write in python online but other code tak from internet ..
+| ------------------------------------------------- | ----------------------------------------------------------------------------- |
 | **File**                                          | **Purpose**                                                                   |
 | ------------------------------------------------- | ----------------------------------------------------------------------------- |
 | **collage\_project/urls.py**                      | Project-level URL router. Includes `collage_app.urls`                         |
@@ -8,7 +11,7 @@
 | **collage\_app/templates/collage\_app/home.html** | Contains **all frontend HTML design (the code I gave you)**                   |
 | **collage\_app/admin.py**                         | For Django Admin panel access (Section, Student)                              |
 | **manage.py**                                     | Django run/migrate commands                                                   |
-
+|-------------------------------------------------  | ----------------------------------------------------------------------------- |
 
 collage_data_aplication/
 │
