@@ -1,5 +1,5 @@
 
-Note :  The project code i write in python online but other programming code take from internet ..
+Note :  The python code is writen by me only  and  other programming code take from internet ..
 | ----------------------------------------------------------------------------- |
 
 collage_data_application/
