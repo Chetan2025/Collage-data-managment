@@ -1,17 +1,6 @@
 
-Note :  The code i write in python online but other code tak from internet ..
-| ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **File**                                          | **Purpose**                                                                   |
-| ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **collage\_project/urls.py**                      | Project-level URL router. Includes `collage_app.urls`                         |
-| **collage\_app/models.py**                        | Defines `Section` and `Student` models                                        |
-| **collage\_app/forms.py**                         | Django ModelForm for Student Add/Edit                                         |
-| **collage\_app/views.py**                         | Handles logic for Add, Edit, Delete, View Section, View Student               |
-| **collage\_app/urls.py**                          | App-specific URLs like `add_student/`, `section/<id>/`, `student/<id>/`, etc. |
-| **collage\_app/templates/collage\_app/home.html** | Contains **all frontend HTML design (the code I gave you)**                   |
-| **collage\_app/admin.py**                         | For Django Admin panel access (Section, Student)                              |
-| **manage.py**                                     | Django run/migrate commands                                                   |
-|-------------------------------------------------  | ----------------------------------------------------------------------------- |
+Note :  The project code i write in python online but other programming code take from internet ..
+| ----------------------------------------------------------------------------- |
 
 collage_data_aplication/
 │
